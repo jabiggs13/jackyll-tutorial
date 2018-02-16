@@ -1,4 +1,4 @@
 name: Jekyll Jack
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+remote-theme:fongandrew/hydeout
